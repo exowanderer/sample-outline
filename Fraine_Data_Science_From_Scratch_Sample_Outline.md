@@ -46,8 +46,8 @@
      * A learning objective: Understand the nuances with Random Forests Classification with the Iris data set
      * A learning objective: Understand the nuances with Random Forests Regression with Stock trend data (GOOG)
    * Lesson 3.5 - Stacked Estimators
-     * A learning objective: How to stitch together layers of estimators to improve results
-## Chapter 4 - Established Packages - Scikit-Learn, XGBoost, H2O.ai
+     * A learning objective: Stitch together layers of estimators and implement for improved results
+## Chapter 4 - Established Packages - Scikit-Learn, XGBoost, LightGBM
    * Lesson 4.1 - Scikit-Learn for introductory production quality results
      * A learning objective: Implement random forest classification and regression in Scikit-Learn with examples
    * Lesson 4.2 - XGBoost
