@@ -60,10 +60,10 @@
      * A learning objective: Create a deep learning network for the MNIST Data Set (Handwritten Digits).
      * A learning objective: Understand the difference between TF and Keras
 ## Chapter5 - Cloud Computing Basics (Optional)
-   * Lesson 4.1 - Amazon Web Services
+   * Lesson 5.1 - Amazon Web Services
      * A learning objective: Be able to log in, open a new instance, access the instance, and run our code
-   * Lesson 4.2 - Google Cloud Computing
+   * Lesson 5.2 - Google Cloud Computing
      * A learning objective: Be able to log in, open a new instance, access the instance, and run our code
-   * Lesson 4.3 - GPU Acceleration
+   * Lesson 5.3 - GPU Acceleration
      * A learning objective: Understand how GPU acceleration can improve scalability of our code.
      * A learning objective: Understand the limitations of using GPU acceleration for specific projects and data.
