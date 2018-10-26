@@ -35,6 +35,7 @@
      * A learning objective: Create a randomized resampling algorithm (bootstrap)
      * A learning objective: Create a randomized subspace algorithm (bagging)
    * Lesson 3.2 - Ensemble Algorithms Provide Error Bars (Uncertainties!)
+     * A learning objective: Apply our previous Linear regression algorithms with ensembles
      * A learning objective: Apply our previous SVM algorithms with ensembles
      * A learning objective: Interpret those ensembles to define the statical average & uncertainty of our results.
    * Lesson 3.3 - Random Forests
