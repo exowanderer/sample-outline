@@ -1,5 +1,7 @@
 # Course: Data Science from Scratch
 
+## Instructor: Dr. Jonathan Fraine
+
 ## Chapter 1 - Introduction to Data Science
    * Lesson 1.1 - What Is DS and What It Is Not?
      * A learning objective: Understand how to apply the scientific process to data
